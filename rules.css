@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.btn {
+    margin-left: 300px;
+    margin-top: 10px;
+}
+
+.p {
+    font-size: 17px; 
+    padding-left: 15px;
+}
+
+.p2 {
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+h1 {
+    text-align: center;
+}
